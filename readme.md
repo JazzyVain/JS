@@ -15,6 +15,9 @@ Cada projeto neste repositório segue uma estrutura simples e consistente para f
 - `script.js` (opcional): O arquivo JavaScript para adicionar interatividade e lógica dinâmica.
 - `/assets`: Um diretório dedicado a armazenar recursos como imagens, ícones e fontes utilizadas no projeto.
 
+"Além disso a separação das pastas será semanal, começando hoje a semana 01.
+Cada semana começa obrigatoriamente no domingo."
+
 ## Critérios de Qualidade
 
 Para garantir a consistência e a qualidade do aprendizado, cada projeto neste diário deve aderir aos seguintes critérios:
